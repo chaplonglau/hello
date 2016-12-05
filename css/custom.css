@@ -20,6 +20,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    padding-bottom: 150px;
 }
 
 .text-vertical-center h1 {
@@ -30,6 +31,8 @@ body {
 }
 
 /* Custom Button Styles */
+
+
 
 .btn-dark {
     border-radius: 0;
