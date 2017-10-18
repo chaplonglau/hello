@@ -32,8 +32,6 @@ body {
 
 /* Custom Button Styles */
 
-
-
 .btn-dark {
     border-radius: 0;
     color: #fff;
@@ -248,6 +246,11 @@ section  {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+/* Url */
+a {
+    color: #ffffff; 
 }
 
 
