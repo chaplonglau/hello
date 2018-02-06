@@ -6,16 +6,7 @@ body {
   background-color:#E0F2F1;
 }
 
-/*.text-primary:hover{
+.text-info:hover{
   background-color: #FFD700;
-}*/
-
-.text-primary {
-  color: black;
-  text-decoration-color: #2196f3;
-}
-
-.text-info {
-  color: black;
 }
 
